@@ -147,8 +147,16 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/glossaries/styles/glossary-tr
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/glossaries/styles/glossary-tree.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/outlines/outlines.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/outlines/outlines.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/lipsum/lipsum.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/lipsum/lipsum.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
 INPUT ./main.aux
 INPUT ./main.aux
 INPUT main.aux
