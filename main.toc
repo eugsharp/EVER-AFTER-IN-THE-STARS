@@ -1,24 +1,24 @@
 \babel@toc {english}{}\relax 
 \contentsline {section}{\numberline {1}Introduction}{2}{}%
-\contentsline {section}{\numberline {2}Characters}{3}{}%
-\contentsline {subsection}{\numberline {2.1}Pandora}{3}{}%
-\contentsline {subsection}{\numberline {2.2}Valeria}{3}{}%
-\contentsline {subsection}{\numberline {2.3}Nox}{3}{}%
-\contentsline {subsection}{\numberline {2.4}33}{3}{}%
-\contentsline {subsection}{\numberline {2.5}Miscellaneous small characters}{3}{}%
-\contentsline {section}{\numberline {3}World-Building}{3}{}%
-\contentsline {subsection}{\numberline {3.1}Planets}{5}{}%
-\contentsline {subsubsection}{\numberline {3.1.1}Planet: \csqQQ {34}\csqQQ {34}}{5}{}%
-\contentsline {subsubsection}{\numberline {3.1.2}Planet: \csqQQ {34}Lepton\csqQQ {34}}{5}{}%
-\contentsline {subsubsection}{\numberline {3.1.3}Stratos-34 a.k.a. \csqQQ {34}Heaviside\csqQQ {34}}{5}{}%
-\contentsline {subsubsection}{\numberline {3.1.4}Planet Flantith}{6}{}%
-\contentsline {subsubsection}{\numberline {3.1.5}Heroic woman planet}{6}{}%
-\contentsline {subsubsection}{\numberline {3.1.6}Snow Planet}{7}{}%
-\contentsline {subsubsection}{\numberline {3.1.7}Poor Planet}{7}{}%
-\contentsline {subsubsection}{\numberline {3.1.8}Artist Planet}{7}{}%
-\contentsline {subsubsection}{\numberline {3.1.9}Dark Lord Planet}{8}{}%
-\contentsline {subsection}{\numberline {3.2}Organizations}{8}{}%
-\contentsline {subsubsection}{\numberline {3.2.1}Space pirate organization}{8}{}%
-\contentsline {section}{\numberline {4}Story/Plot Ideas}{9}{}%
-\contentsline {section}{\numberline {5}Call notes}{9}{}%
-\contentsline {subsection}{\numberline {5.1}Nov 2 Call}{9}{}%
+\contentsline {section}{\numberline {2}Characters}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Pandora}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Valeria}{2}{}%
+\contentsline {subsection}{\numberline {2.3}Nox}{2}{}%
+\contentsline {subsection}{\numberline {2.4}33}{2}{}%
+\contentsline {subsection}{\numberline {2.5}Miscellaneous small characters}{2}{}%
+\contentsline {section}{\numberline {3}World-Building}{2}{}%
+\contentsline {subsection}{\numberline {3.1}Planets}{4}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}Planet: \csqQQ {34}\csqQQ {34}}{4}{}%
+\contentsline {subsubsection}{\numberline {3.1.2}Planet: \csqQQ {34}Lepton\csqQQ {34}}{4}{}%
+\contentsline {subsubsection}{\numberline {3.1.3}Stratos-34 a.k.a. \csqQQ {34}Heaviside\csqQQ {34}}{4}{}%
+\contentsline {subsubsection}{\numberline {3.1.4}Planet Flantith}{5}{}%
+\contentsline {subsubsection}{\numberline {3.1.5}Heroic woman planet}{5}{}%
+\contentsline {subsubsection}{\numberline {3.1.6}Snow Planet}{6}{}%
+\contentsline {subsubsection}{\numberline {3.1.7}Poor Planet}{6}{}%
+\contentsline {subsubsection}{\numberline {3.1.8}Artist Planet}{6}{}%
+\contentsline {subsubsection}{\numberline {3.1.9}Dark Lord Planet}{7}{}%
+\contentsline {subsection}{\numberline {3.2}Organizations}{7}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}Space pirate organization}{7}{}%
+\contentsline {section}{\numberline {4}Story/Plot Ideas}{8}{}%
+\contentsline {section}{\numberline {5}Call notes}{8}{}%
+\contentsline {subsection}{\numberline {5.1}Nov 2 Call}{8}{}%
